@@ -1,0 +1,7 @@
+🧩 Problem Statement
+
+In today’s fashion industry, consumers and designers struggle to make sustainable and informed clothing choices due to a lack of accessible and intelligent tools. People with visual impairments face additional challenges in identifying fabric types, colors, or defects in garments. Furthermore, users often find it difficult to choose appropriate outfits based on changing weather conditions or understand the environmental impact of their clothing choices.
+
+At the same time, designers and sustainable fashion enthusiasts require digital tools that can assist in fabric classification, flaw detection, and eco-friendly material recommendations.
+
+To address these issues, this project proposes an AI-powered sustainable fashion assistant — an application that uses Convolutional Neural Networks (CNN) for fabric and defect detection, integrates AR-based virtual try-on, provides weather-based clothing suggestions, and offers voice-assisted accessibility for visually impaired users. This system aims to promote sustainability, inclusivity, and innovation in the fashion ecosystem.
